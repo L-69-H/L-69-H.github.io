@@ -1,0 +1,9 @@
+# Site settings
+title: Writeups and what not 
+author:
+  name: Laksh
+  email: notlakshmesh@gmail.com
+description: "YES"
+
+# Build settings
+remote_theme: jekyll/minima
